@@ -1,0 +1,1 @@
+[Notes here](https://legend-language-d6b.notion.site/Linked-list-12d2d487a1cc8084905ad05dd8b0562a)
